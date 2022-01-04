@@ -36,7 +36,7 @@
 //   alert('Nama saya : ' + nama.value);
 // });
 
-// const klik = document.getElementsByTagName('button')[0];
+const klik = document.getElementsByTagName('button')[0];
 
 // const el = document.querySelector('#el');
 // const isi = document.querySelector('#isi');
@@ -55,7 +55,7 @@
 
 // klik.addEventListener('click', function () {
 //   const elBaru = document.createElement(el.value);
-//   const txtBaru = document.createTextNode(el.value);
+//   const txtBaru = document.createTextNode(isi.value);
 //   elBaru.appendChild(txtBaru);
 
 //   //tempat
